@@ -6,3 +6,4 @@ Secure API key with Google Cloud's secret manager.
 Import Google Cloud's Secret Manager to access API Key not exposed in code.
 Run the notebook.
 Enter any list of inredients when prompt box comes up. A recipe is generated with your ingredients. Enter any new list of ingredients any number of times until you choose end the loop.
+Share the recipes generator with any cook in your family!
