@@ -6,4 +6,5 @@ Secure API key with Google Cloud's secret manager.
 Import Google Cloud's Secret Manager to access API Key not exposed in code.
 Run the notebook.
 Enter any list of inredients when prompt box comes up. A recipe is generated with your ingredients. Enter any new list of ingredients any number of times until you choose end the loop.
-Share the recipes generator with any cook in your family!
+The code will generate a recipe based on the input ingredients from the dataset in the Pandas dataframe or, if no appropriate one is found, generate one from the text-davinci-003 model from OpenAI. It will also inform the user whether the recipe was generated from the JSON dataset or the Davinci model on OpenAI.
+Run on Colab with your own OpenAI key and share recipes generated with the coook in your family!
